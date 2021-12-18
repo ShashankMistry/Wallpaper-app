@@ -1,5 +1,7 @@
 
 # Wallpaper
+
+[![Only 32 Kb](https://badge-size.herokuapp.com/Shubhanshu156/Wallpaper-app/app/release/app-release.apk)](https://github.com/Shubhanshu156/Wallpaper-app/blob/master/app/release/app-release.apk)
 [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 [![Build](https://github.com/Haid-Faiz/QuizLand/actions/workflows/gradle_build_ci.yml/badge.svg)](https://github.com/Haid-Faiz/QuizLand/actions/workflows/gradle_build_ci.yml)
 [![Lint](https://github.com/Haid-Faiz/QuizLand/actions/workflows/lint_check_ci.yml/badge.svg)](https://github.com/Haid-Faiz/QuizLand/actions/workflows/lint_check_ci.yml)
