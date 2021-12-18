@@ -18,7 +18,7 @@
 <table>
       <ul>
       <li>
-         <h4>Account Activity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Fragment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |Ringtone Fragment<h4>
+         <h4>Account Activity|Home Fragment |Ringtone Fragment<h4>
           </li>
    </ul>
   <tr>
