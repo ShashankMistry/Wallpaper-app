@@ -35,10 +35,9 @@
           </li>
    </ul>
   <tr>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif2.mp4" height = "370" width="200"></td>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif3.mp4" height = "370" width="200"></td>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif1.mp4" height = "370" width="200"></td>
-<td><img src = "https://user-images.githubusercontent.com/56159740/143995430-0fd56021-4847-4b83-9667-200ce5fd2478.gif" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif2.gif" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif3.gif" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif1.gif" height = "370" width="200"></td>\
   </tr>
 </table> 
    
