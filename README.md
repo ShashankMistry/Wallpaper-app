@@ -46,12 +46,12 @@
 - **Uses Firebase Firestore, Google authentication**
 
 - Clean and Simple Material UI.
-- **Low APK Size (only 10MB).**
+- **Low APK Size (only 3MB).**
 
 
 ### Following libraries and tools  were used in development ->
 
-- [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51oDD7YidXrX3qB6G6oWZb_HHPTJPq_BxMMdgEEjMvOgNb8yhgnHAMaAuhBEALw_wcB) - Firebase for server side backend
+- [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51oDD7YidXrX3qB6G6oWZb_HHPTJPq_BxMMdgEEjMvOgNb8yhgnHAMaAuhBEALw_wcB) - Firebase for server side backend</br>
 -##[Firebase Authentication](https://firebase.google.com/docs/auth)-To authenticate use using Email and Google Providers
 -##[Firebase Cloud Firestore](https://firebase.google.com/products/firestore?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq53xbIzUTNCOIs3Ly1VF-rGoJrFvjEzQ6CFw-o4DzIAHX1SECUfsHEkaAgVAEALw_wcB)-To Store list of Favourite Wallpaper by user
 
