@@ -52,8 +52,8 @@
 ### Following libraries and tools  were used in development ->
 
 - [Firebase]() - Firebase for server side backend
--        ##[Firebase Authentication](https://firebase.google.com/docs/auth)-To authenticate use using Email and Google Providers
--        ##[Firebase Cloud Firestore](https://firebase.google.com/products/firestore?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq53xbIzUTNCOIs3Ly1VF-rGoJrFvjEzQ6CFw-o4DzIAHX1SECUfsHEkaAgVAEALw_wcB)-To Store list of Favourite Wallpaper by user
+-##[Firebase Authentication](https://firebase.google.com/docs/auth)-To authenticate use using Email and Google Providers
+-##[Firebase Cloud Firestore](https://firebase.google.com/products/firestore?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq53xbIzUTNCOIs3Ly1VF-rGoJrFvjEzQ6CFw-o4DzIAHX1SECUfsHEkaAgVAEALw_wcB)-To Store list of Favourite Wallpaper by user
 
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
 - [Glide](https://github.com/bumptech/glide) -To load Wallpaper from url
