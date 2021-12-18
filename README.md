@@ -1,7 +1,6 @@
 
 # Wallpaper
 
-[![Only 32 Kb](https://badge-size.herokuapp.com/Shubhanshu156/Wallpaper-app/app/release/app-release.apk)](https://github.com/Shubhanshu156/Wallpaper-app/blob/master/app/release/app-release.apk)
 [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 [![Build](https://github.com/Haid-Faiz/QuizLand/actions/workflows/gradle_build_ci.yml/badge.svg)](https://github.com/Haid-Faiz/QuizLand/actions/workflows/gradle_build_ci.yml)
 [![Lint](https://github.com/Haid-Faiz/QuizLand/actions/workflows/lint_check_ci.yml/badge.svg)](https://github.com/Haid-Faiz/QuizLand/actions/workflows/lint_check_ci.yml)
@@ -12,8 +11,8 @@
 **Wallpaper** is a  Wallpaper and ringtone Application which allows user to **set and download Wallpaper or ringtone**.You can also make any Wallpaper your favourite 
 ***You can Install the latest QuizLand app from below 👇***
 
-[![QuizLand App](https://img.shields.io/badge/QuizLand-APK-%23121212?style=for-the-badge&logo=android)](https://github.com/Shubhanshu156/Wallpaper-app/raw/master/app/release/app-release.apk)
 
+<!-- 
 ## ScreenShots
 <table>
    <ul>
@@ -40,7 +39,7 @@
 <td><img src = "https://user-images.githubusercontent.com/56159740/144015396-3711a2e6-4e41-43f5-b6c1-d73b5d08a7dc.jpg" height = "370" width="200"></td>
 <td><img src = "https://user-images.githubusercontent.com/56159740/143995430-0fd56021-4847-4b83-9667-200ce5fd2478.gif" height = "370" width="200"></td>
   </tr>
-</table>
+</table> -->
    
 ## About
 
