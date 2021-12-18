@@ -57,4 +57,7 @@
 
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
 - [Glide](https://github.com/bumptech/glide) -To load Wallpaper from url
+- [PhotoView](https://github.com/Baseflow/PhotoView)-TO Load Large Image of Wallpaper Which allow user to Zoom in and Zoom out
+- [Volley](https://developer.android.com/training/volley) TO Fetch data from Wallpaper api
+- [okhttps](https://square.github.io/okhttp/) To fetch data from music api
 
