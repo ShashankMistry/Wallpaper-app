@@ -13,25 +13,12 @@
 [Download Now](https://github.com/Shubhanshu156/Wallpaper-app/raw/master/app/release/app-release.apk)
 
 
-<!-- 
-## ScreenShots
-<table>
-   <ul>
-      <li>
-         <h4>App Intro | Quiz participation<h4>
-      </li>
-   </ul>
-   <tr>
-<td><img src = "https://user-images.githubusercontent.com/56159740/143897423-8cdb958e-3bfe-483a-a8d3-5a5b53eabaf1.gif" height = "370" width="200"></td>
-<td><img src = "https://user-images.githubusercontent.com/56159740/144014767-43680b1f-49fd-4c4a-9749-07321fcb8633.jpg" height = "370" width="200"></td>
-<td><img src = "https://user-images.githubusercontent.com/56159740/144013269-d8209228-6707-4aff-815a-68b83021b582.gif" height = "370" width="200"></td>
-  </tr>
-</table> -->
+
 
 <table>
       <ul>
       <li>
-         <h4>Account Activity</t>| Home Fragment      |Ringtone Fragment<h4>
+         <h4>Account Activity &nbsp;&nbsp;&nbsp;&nbsp; Home Fragment      |Ringtone Fragment<h4>
           </li>
    </ul>
   <tr>
