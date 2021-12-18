@@ -53,10 +53,10 @@
 <ul>
 - [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51oDD7YidXrX3qB6G6oWZb_HHPTJPq_BxMMdgEEjMvOgNb8yhgnHAMaAuhBEALw_wcB) - Firebase for server side backend</br>
 <li>
--[Firebase Authentication](https://firebase.google.com/docs/auth)-To authenticate use using Email and Google Providers</li>
+-[Firebase Authentication](https://firebase.google.com/docs/auth)-To authenticate use using Email and Google Providers
 <li>
 -##[Firebase Cloud Firestore](https://firebase.google.com/products/firestore?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq53xbIzUTNCOIs3Ly1VF-rGoJrFvjEzQ6CFw-o4DzIAHX1SECUfsHEkaAgVAEALw_wcB)-To Store list of Favourite Wallpaper by user
-   </li>
+
 </ul?
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
 - [Glide](https://github.com/bumptech/glide) -To load Wallpaper from url
