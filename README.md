@@ -35,9 +35,9 @@
           </li>
    </ul>
   <tr>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif2.gif" height = "370" width="200"></td>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif3.gif" height = "370" width="200"></td>
-<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif1.gif" height = "370" width="200"></td>\
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif2.gif" height = "370" width="180"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif3.gif" height = "370" width="180"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif1.gif" height = "370" width="180"></td>\
   </tr>
 </table> 
    
