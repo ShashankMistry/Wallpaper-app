@@ -26,7 +26,7 @@
 <td><img src = "https://user-images.githubusercontent.com/56159740/144014767-43680b1f-49fd-4c4a-9749-07321fcb8633.jpg" height = "370" width="200"></td>
 <td><img src = "https://user-images.githubusercontent.com/56159740/144013269-d8209228-6707-4aff-815a-68b83021b582.gif" height = "370" width="200"></td>
   </tr>
-</table>
+</table> -->
 
 <table>
       <ul>
@@ -35,12 +35,12 @@
           </li>
    </ul>
   <tr>
-<td><img src = "https://user-images.githubusercontent.com/56159740/143897402-f3074c6e-af6e-494e-a0f5-58ee26ca6378.gif" height = "370" width="200"></td>
-<td><img src = "https://user-images.githubusercontent.com/56159740/143898449-0fe8d1da-68a8-4f08-9a20-f06e6f7071bf.jpg" height = "370" width="200"></td>
-<td><img src = "https://user-images.githubusercontent.com/56159740/144015396-3711a2e6-4e41-43f5-b6c1-d73b5d08a7dc.jpg" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif2.mp4" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif3.mp4" height = "370" width="200"></td>
+<td><img src = "https://github.com/Shubhanshu156/Wallpaper-app/blob/master/gif1.mp4" height = "370" width="200"></td>
 <td><img src = "https://user-images.githubusercontent.com/56159740/143995430-0fd56021-4847-4b83-9667-200ce5fd2478.gif" height = "370" width="200"></td>
   </tr>
-</table> -->
+</table> 
    
 ## About
 
