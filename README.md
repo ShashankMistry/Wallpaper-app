@@ -63,4 +63,4 @@
 - [okhttps](https://square.github.io/okhttp/) To fetch data from music api
 - [Api's used]():Api's used in this Application:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Pexels Apip](https://www.pexels.com/api/)-Provide Json Response which include list of Curated Pictures and Searched Pictures</br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Firebase Cloud Firestore](https://firebase.google.com/products/firestore?gclsrc=aw.ds&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq53xbIzUTNCOIs3Ly1VF-rGoJrFvjEzQ6CFw-o4DzIAHX1SECUfsHEkaAgVAEALw_wcB)-To Store list of Favourite Wallpaper by user
+&nbsp;&nbsp;&nbsp;&nbsp;[iTunes Search Api](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1)-To get Json Response of Search song which includes Preview url which used as Ringtone in this Application
