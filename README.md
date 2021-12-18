@@ -54,4 +54,5 @@
 - [Firebase]() - Firebase for server side backend
 
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
+- [Glide] (https://github.com/bumptech/glide) -To load Wallpaper from url
 
