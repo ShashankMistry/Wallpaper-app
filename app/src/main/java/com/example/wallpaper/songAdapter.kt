@@ -28,6 +28,7 @@ class songAdapter(val context: Context,var mymediaplyer:MediaPlayer) : RecyclerV
     var Pos=0
     val mContext = context
     val intentFilter: IntentFilter = IntentFilter(DownloadManager.ACTION_DOWNLOAD_COMPLETE)
+    var fileName = "";
     private val downloadReceiver: BroadcastReceiver = object : BroadcastReceiver() {
         override fun onReceive(arg0: Context, arg1: Intent) {
             CheckDwnloadStatus()
@@ -87,7 +88,7 @@ class songAdapter(val context: Context,var mymediaplyer:MediaPlayer) : RecyclerV
 
             val dmr:DownloadManager.Request =  DownloadManager.Request(Uri.parse(mList[position].previewUrl))
 
-            val fileName=mList[position].artistId.toString()
+            fileName=mList[position].artistId.toString()+".mp3"
             dmr.setTitle(fileName)
             dmr.setDescription("Downloading your Ringtone") //optional
 
@@ -268,13 +269,13 @@ class songAdapter(val context: Context,var mymediaplyer:MediaPlayer) : RecyclerV
 
     private fun GetFile() {
         //Retrieve the saved request id
-        val fileName=mList[Pos].artistId.toString()
+//        val fileName=mList[Pos].artistId.toString()+".mp3"
 
         val k: File = File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS), fileName);
 //        Toast.makeText(mContext,"$k", Toast.LENGTH_SHORT).show()
 
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-                if (Settings.System.canWrite(mContext)){
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            if (Settings.System.canWrite(mContext)){
 //                    Toast.makeText(mContext, "k-exists", Toast.LENGTH_SHORT).show()
                 val values = ContentValues()
                 values.put(MediaStore.MediaColumns.DATA, k.absolutePath)
@@ -295,9 +296,9 @@ class songAdapter(val context: Context,var mymediaplyer:MediaPlayer) : RecyclerV
                     RingtoneManager.TYPE_RINGTONE,
                     newUri
                 );}
-                else
-                    openAndroidPermissionsMenu();
-            }
+            else
+                openAndroidPermissionsMenu();
+        }
 
         Log.d(TAG, "GetFile: successfully downloaded")
     }
@@ -310,5 +311,4 @@ class songAdapter(val context: Context,var mymediaplyer:MediaPlayer) : RecyclerV
 
 
 }
-
 
